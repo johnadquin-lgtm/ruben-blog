@@ -1,0 +1,10 @@
+---
+title: "La actitud se entrena"
+date: 2026-03-05
+excerpt: La actitud se entrena
+category: mentalidad
+---
+
+# La actitud se entrena
+
+## La actitud NO es algo que se «trae de fábrica». Existe la creencia de que: «o tienes actitud o no la tienes». La actitud es «entrenable» como cualquier otra habilidad, no es un rasgo fijo de personalidad. Efectivamente, la actitud es una decisión repetida. No es un sentimiento mágico que aparece y permanece. La persona debe conscientemente elegir cómo responder ante las diferentes circunstancias: ¿cómo reacciones ante la derrota?, ¿estás cansado pero aún quedan 15 minutos de juego?, ¿algo no te sale: te frustras o buscas soluciones? Estas respuestas se entrenan y practican igual que un pase o un tiro. Actitud también es disciplina, respeto y profesionalidad. La actitud se modela con el ejemplo mas que explicar con palabras y la mejor manera de enseñarla es predicar con el ejemplo. Esta es una de esas habilidades que se contagia más que se enseña con palabras; de la misma manera, la actitud no se forma en entrenamientos cómodos, se refuerza cuando estás perdiendo y decides seguir presionando, estás ganando y mantienes la intensidad o fallas y vuelves a intentarlo inmediatamente. Es de vital importancia reforzar la actitud incluso en los pequeños gestos: celebrar el esfuerzo, no solo el resultado; reconocer la mejora incremental; cuando se acostumbra a nunca bajar los brazos. Pero… hay un «PERO». Evidentemente no todos aprenden al mismo ritmo. El POR QUÉ de un deportista será clave para sostener una buena actitud, una actitud pro-activa. Sin un por qué claro, la actitud decae. Por esto, LA ACTITUD REQUIERE PROPÓSITO. «ACTITUD ENTRENABLE : no es lo que sientes, es lo que decides hacer a pesar de lo que sientes». Y eso se entrena, como todo en el deporte y en la vida. Entrenas tu cuerpo, ¿pero estás entrenando tu actitud? La ACTITUD también se entrena. Cada día. Entrena tu cuerpo, ¿pero estás entrenando tu actitud? La ACTITUD también se entrena. Cada día.

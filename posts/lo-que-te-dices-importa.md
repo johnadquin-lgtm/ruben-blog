@@ -1,0 +1,10 @@
+---
+title: "Lo que te dices IMPORTA"
+date: 2026-01-27
+excerpt: Lo que te dices IMPORTA
+category: mentalidad
+---
+
+# Lo que te dices IMPORTA
+
+Un pilar maestro no solo de cualquier deportista sino también de individuos que aspiran a crecer es el de ser consciente y prestar especial atención a su diálogo interno, esa «vocesita» que no cesa y que tiene una impacto enorme en nuestra performance de vida. A menudo pensamos que esa voz es «solo un pensamiento», sin caer en cuenta que en realidad es el arquitecto oculto de nuestra realidad, un amplificador como impulso para crecer o un «freno silencioso» que merma nuestro rendimiento. ¿Qué pesa más: lo que pasa o lo que te dices? Nuestro lenguaje interno es el molde tu nuestro «SER». Los pensamientos que tenemos, la interpretación que le damos a esos pensamientos, lo que nos decimos y conversamos a nosotros mismos, las palabras que utilizamos, la energía que le damos a esas palabras. Ese conjunto de elementos conforman el lenguaje interior que va a determinar cómo nos auto-percibimos, las emociones que sentimos y una manera de actuar determinada. Por todo esto, ser consciente de eso que no se ve pero que es crucial a la hora de actuar, además de fomentar una narrativa que te eleve no es una opción, sino lo que construye unos cimientos de confianza sólidos e inquebrantables. Llevar consciencia sobre cómo te hablas en tu fuero interno genera un cambio de confianza. No es inmediato por supuesto, pero con práctica deliberada y con la energía necesaria, empiezas a cambiar mucho de tu mundo interno lo que, a su tiempo, genera cambios en lo externo. Elegir palabras, pensamientos y creencias habilitantes tiene un impacto poderoso en el rendimiento deportivo y personal. LA NARRATIVA SIEMPRE ES MÁS IMPORTANTE QUE EL HECHO. Entonces, ¿Qué tipo de léxico prevalece en un interior: uno limitante u otro más habilitante?
