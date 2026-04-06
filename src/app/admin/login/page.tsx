@@ -28,8 +28,11 @@ export default function AdminLogin() {
       const data = await response.json();
 
       if (response.ok) {
-        // Redirigir al dashboard
-        router.push('/admin');
+        // Esperar un momento para que la cookie se establezca
+        setTimeout(() => {
+          router.push('/admin');
+          router.refresh(); // Forzar refresh para que el middleware reconozca la cookie
+        }, 100);
       } else {
         setError(data.message || 'Error en el login');
       }
