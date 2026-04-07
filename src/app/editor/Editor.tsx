@@ -57,6 +57,7 @@ export default function Editor() {
     const startY = e.clientY
     const page = story.pages[story.currentPage ?? 0]
     const el = page.elements.find((x: any) => x.id === elId)
+    if (!el) return
     const initLeft = parseFloat(el.style.left)
     const initTop = parseFloat(el.style.top)
 
