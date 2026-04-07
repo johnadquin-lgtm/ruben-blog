@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getAllPosts } from '@/lib/posts';
 import LogoutButton from '@/components/LogoutButton';
+import PostActions from '@/components/PostActions';
 
 export default async function AdminDashboard() {
   const allPosts = await getAllPosts();
@@ -132,12 +133,7 @@ export default async function AdminDashboard() {
                       )}
                     </td>
                     <td className="px-6 py-4 text-sm">
-                      <Link
-                        href={`/blog/${post.slug}`}
-                        className="text-amber-700 hover:text-amber-900 font-medium"
-                      >
-                        Ver →
-                      </Link>
+                      <PostActions slug={post.slug} />
                     </td>
                   </tr>
                 ))}

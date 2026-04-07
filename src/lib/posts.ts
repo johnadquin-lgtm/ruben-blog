@@ -81,3 +81,70 @@ export async function getCategories(): Promise<string[]> {
   );
   return Array.from(categories);
 }
+
+// Actualizar un post existente
+export async function updatePost(
+  slug: string,
+  updates: {
+    title?: string;
+    excerpt?: string;
+    content?: string;
+    category?: string;
+    image?: string;
+  }
+): Promise<{ success: boolean; slug: string }> {
+  const filePath = path.join(postsDirectory, `${slug}.md`);
+  
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`Post "${slug}" no encontrado`);
+  }
+
+  const fileContents = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(fileContents);
+
+  // Actualizar campos
+  const updatedData = {
+    ...data,
+    ...(updates.title && { title: updates.title }),
+    ...(updates.excerpt && { excerpt: updates.excerpt }),
+    ...(updates.content !== undefined && { content: updates.content }),
+    ...(updates.category && { category: updates.category }),
+    ...(updates.image !== undefined && { image: updates.image }),
+  };
+
+  // Si se actualiza el título, puede cambiar el slug
+  const newSlug = updates.title
+    ? updates.title
+        .toLowerCase()
+        .replace(/[^a-z0-9áéíóúñü\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-')
+        .trim()
+    : slug;
+
+  // Generar el contenido del archivo
+  const newContent = matter.stringify(updates.content !== undefined ? updates.content : content, updatedData);
+
+  // Si el slug cambió, renombrar el archivo
+  if (newSlug !== slug) {
+    const newFilePath = path.join(postsDirectory, `${newSlug}.md`);
+    fs.writeFileSync(newFilePath, newContent, 'utf8');
+    fs.unlinkSync(filePath);
+    return { success: true, slug: newSlug };
+  }
+
+  fs.writeFileSync(filePath, newContent, 'utf8');
+  return { success: true, slug };
+}
+
+// Eliminar un post
+export async function deletePost(slug: string): Promise<{ success: boolean }> {
+  const filePath = path.join(postsDirectory, `${slug}.md`);
+  
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`Post "${slug}" no encontrado`);
+  }
+
+  fs.unlinkSync(filePath);
+  return { success: true };
+}
