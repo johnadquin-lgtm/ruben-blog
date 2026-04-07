@@ -55,7 +55,7 @@ export default function Editor() {
   const startDrag = (e: React.MouseEvent, elId: string) => {
     const startX = e.clientX
     const startY = e.clientY
-    const page = story.pages[story.currentPage]
+    const page = story.pages[story.currentPage ?? 0]
     const el = page.elements.find((x: any) => x.id === elId)
     const initLeft = parseFloat(el.style.left)
     const initTop = parseFloat(el.style.top)
