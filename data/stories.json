@@ -1,0 +1,2453 @@
+[
+  {
+    "id": 1,
+    "title": "Lo que no se ve decide todo",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/03/PRODUCTIVIDAD-2.png"
+        },
+        "elements": [
+          {
+            "id": "h-1",
+            "type": "heading",
+            "content": "Lo que no se ve decide todo",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-1",
+            "type": "text",
+            "content": "«Es la punta del Iceberg» es una frase que se repite en el día a día. Tomando como referencia la siguiente imagen del libro de Gary Keller «La Única Cosa», es un gráfico visual muy poderoso, porque co…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-1",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/lo-que-no-se-ve-decide-todo/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pilares Deportivos «Invisibles»",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/04/pexels-jesuszecuaphoto-33629446-1020x1536.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-2",
+            "type": "heading",
+            "content": "Pilares Deportivos «Invisibles»",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-2",
+            "type": "text",
+            "content": "En el ámbito deportivo, sin desarrollo personal no hay desarrollo profesional. Los siguientes, son pilares deportivos «invisibles» que sostienen todo. No los ves, pero sin ellos el alto rendimiento no…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-2",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/pilares-deportivos-invisibles/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "El verdadero talento",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/03/pexels-betosval-16566965-1024x683.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-3",
+            "type": "heading",
+            "content": "El verdadero talento",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-3",
+            "type": "text",
+            "content": "Sin el desarrollo de habilidades blandas, el éxito no se puede sostener. Una mente distraída es un poder entregado. ¿Y qué requiere el éxito? Foco y se ha convertido en un bien escaso. Porque vivimos …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-3",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/el-verdadero-talento/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "El rol del Coaching Deportivo en el deporte actual",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-4",
+            "type": "heading",
+            "content": "El rol del Coaching Deportivo en el deporte actual",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-4",
+            "type": "text",
+            "content": "La importancia del Coaching Deportivo – charla completa. Espacio para la reflexión: importancia del Coaching Deportivo en el deporte actual. El Coaching Deportivo humaniza el deporte. Cuando cuidas al…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-4",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/el-rol-del-coaching-deportivo-en-el-deporte-actual/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Habilidades clave para rendir bajo presión",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/03/pexels-maumascaro-6516541-1024x683.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-5",
+            "type": "heading",
+            "content": "Habilidades clave para rendir bajo presión",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-5",
+            "type": "text",
+            "content": "Cuando la obligas a moverse, la mente se vuelve ágil. La agilidad mental, la creatividad y la toma de decisiones no aparecen sola: se entrenan. Igual que entrenas el músculo, puedes fortalecer tu capa…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-5",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/habilidades-clave-para-rendir-bajo-presion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "¿Qué descubro cuando registro mi día?",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/03/pexels-pixabay-159577-1-1024x654.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-6",
+            "type": "heading",
+            "content": "¿Qué descubro cuando registro mi día?",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-6",
+            "type": "text",
+            "content": "#### Empieza un diario que refuerce tu identidad, evidencia y progreso real (sea grande o pequeño). Esto herramienta construye confianza desde dentro. No se trata de escribir mucho, sino de escribir l…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-6",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/que-descubro-cuando-registro-mi-dia/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "¿Qué hacer cuando sientes que el físico no da más de sí?",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-7",
+            "type": "heading",
+            "content": "¿Qué hacer cuando sientes que el físico no da más de sí?",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-7",
+            "type": "text",
+            "content": "Mantra: «La transformación pasa por tu interior.» Lo que cambia por fuera, primero despierta por dentro. ### El cuerpo es tu herramienta, pero no lo es todo. Puedes entrenar más, más tiempo y aún así …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-7",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/despierta-tu-interior-y-rompe-el-limite-invisible/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Suelta el miedo: 1 truco de entreno",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-8",
+            "type": "heading",
+            "content": "Suelta el miedo: 1 truco de entreno",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-8",
+            "type": "text",
+            "content": "El miedo también es energía. Úsala a tu favor. ¿Qué me está diciendo este miedo ahora? Suelta el miedo, no te resistas. No es un enemigo, es una señal. Una llamada a volver al cuerpo, a este instante.…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-8",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/suelta-el-miedo-1-truco-de-entreno/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "La inspiración te lleva más lejos que la motivación",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-9",
+            "type": "heading",
+            "content": "La inspiración te lleva más lejos que la motivación",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-9",
+            "type": "text",
+            "content": "## La motivación es el motor de la necesidad. Hay dos formas de moverse por la vida: no actúa desde un estado de necesidad. El otro desde un estado de plenitud. La inspiración no te empuja. Te llama. …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-9",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/motivacion-vs-inspiracion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "En el aprendizaje, «no llegas nunca»",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-10",
+            "type": "heading",
+            "content": "En el aprendizaje, «no llegas nunca»",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-10",
+            "type": "text",
+            "content": "La mente cuando se entrena bien no tiene límites. Solo tiene niveles. Cada nueva mirada, te convierte en aprendiz nuevamente. Y cada nivel que alcanzas abre la puerta al siguiente. Es como escalar una…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-10",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/en-el-aprendizaje-no-llegas-nunca/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Detrás de escena",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-11",
+            "type": "heading",
+            "content": "Detrás de escena",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-11",
+            "type": "text",
+            "content": "## La arquitectura silenciosa. El alto rendimiento no se construye bajo los focos de un estadio repleto de hinchas y todo el ruido mediático que esa atención atrae. Muy por el contrario, el alto rendi…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-11",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/detras-de-escena/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "La actitud se entrena",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-12",
+            "type": "heading",
+            "content": "La actitud se entrena",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-12",
+            "type": "text",
+            "content": "## La actitud NO es algo que se «trae de fábrica». Existe la creencia de que: «o tienes actitud o no la tienes». La actitud es «entrenable» como cualquier otra habilidad, no es un rasgo fijo de person…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-12",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/la-actitud-es-una-decision-repetida/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "¿Hasta dónde te permites?",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-13",
+            "type": "heading",
+            "content": "¿Hasta dónde te permites?",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-13",
+            "type": "text",
+            "content": "## ¿Por qué algunos se conforman con poco y otros aspiran a más? No se trata de clasificar de conformista o ambición e incluso avaricia, no tiene que ver que esa mirada externa; muy por el contrario, …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-13",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/hasta-donde-te-permites/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Mente de principiante, un súper poder",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-14",
+            "type": "heading",
+            "content": "Mente de principiante, un súper poder",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-14",
+            "type": "text",
+            "content": "## «La escuela» ahora dura toda la vida. En el pasado ibas a la escuela y luego pensabas en la idea de «terminar de aprender», asumiendo que tu proceso de aprendizaje tenía un final. Esa idea ha queda…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-14",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/mente-de-principiante-el-nuevo-super-poder/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Tus músculos como seguro de vida",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/02/pexels-pixabay-416717-1024x683.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-15",
+            "type": "heading",
+            "content": "Tus músculos como seguro de vida",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-15",
+            "type": "text",
+            "content": "Por qué tus músculos son tus mejores aliados. Tengas la edad que tengas ahora mismo, seas deportista de elite o alguien de una cierta edad que nunca ha hecho ejercicio físico, el hecho de entrenar tus…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-15",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/tus-musculos-como-seguro-de-vida/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "La vida recompensa la acción",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-16",
+            "type": "heading",
+            "content": "La vida recompensa la acción",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-16",
+            "type": "text",
+            "content": "Vivimos en un mundo cada vez más intelectual. Sin embargo, la vida recompensa las acciones. Parece que la vida nos está diciendo «pensar menos y en su lugar, actuar y sentir más». A menudo, cuanta más…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-16",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/la-vida-recompensa-la-accion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Las habilidades blandas ganan partidos",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-17",
+            "type": "heading",
+            "content": "Las habilidades blandas ganan partidos",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-17",
+            "type": "text",
+            "content": "Cuando un equipo pierde y prestas atención a sus declaraciones, suelen comentar cosas como: «Nos faltó concentración», «No manejamos la presión», «Nos pusimos nerviosos en el momento clave». Si reflex…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-17",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/las-habilidades-blandas-ganan-partidos/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "La derrota es una lupa",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/02/pexels-pixabay-47730-1024x683.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-18",
+            "type": "heading",
+            "content": "La derrota es una lupa",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-18",
+            "type": "text",
+            "content": "## La victoria inspira, la derrota transforma. Cuando el deportista está en racha positiva todo parece fluir plácidamente. En cambio, cuando las cosas se ponen cuesta arriba, parece que otra perspecti…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-18",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/la-derrota-es-una-lupa/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Djokovic y su «súper poder»",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-19",
+            "type": "heading",
+            "content": "Djokovic y su «súper poder»",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-19",
+            "type": "text",
+            "content": "En una reciente charla, Novak Djokovich confesaba que él no gana partidos solo en la pista. Los gana en su mente, en su interior, días antes de pisar la cancha. Te aplauden en público lo que entrenas …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-19",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/djokovic-un-super-poder/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "El «software» dirige todo",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-20",
+            "type": "heading",
+            "content": "El «software» dirige todo",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-20",
+            "type": "text",
+            "content": "## Si conceptualizamos al deportista como un sistema complejo encontramos la analogía perfecta en la tecnología donde el hardware y el software se fusionan para definir el rendimiento y eficacia en su…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-20",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/que-software-tiene-tu-hardware/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "La mente es un simulador perfecto",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-21",
+            "type": "heading",
+            "content": "La mente es un simulador perfecto",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-21",
+            "type": "text",
+            "content": "## Ensaya en el plano mental, construye en el plano real. La mayor trampa que tiene el ejercicio de la visualización es la lógica. Por eso, cuando visualizamos desde «lo realista» solo estamos proyect…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-21",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/entrena-la-imagen/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Visualización es familiaridad",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/02/pexels-meruyert-gonullu-6888760-1063x1536.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-22",
+            "type": "heading",
+            "content": "Visualización es familiaridad",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-22",
+            "type": "text",
+            "content": "## Imagina que eres director de cine de Hollywood y tienes que crear el mejor guión de todos. Pero en este caso, ese guión no es una película cualquiera: es el guión de tu vida soñada o de ese momento…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-22",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/visualizacion-es-familiaridad/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Toma de decisiones bajo presión",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-23",
+            "type": "heading",
+            "content": "Toma de decisiones bajo presión",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-23",
+            "type": "text",
+            "content": "El deporte y muchas veces la vida en general requiere que tomemos decisiones en cuestión de segundos y además, eso conlleva el añadido de que son decisiones bajo presión. Lo que provoca el deporte, es…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-23",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/toma-de-decisiones-bajo-presion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Lo invisible decide",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-24",
+            "type": "heading",
+            "content": "Lo invisible decide",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-24",
+            "type": "text",
+            "content": "Aquí van 10 píldoras que combinan sabiduría deportiva y de vida, brújulas para potenciar el rendimiento. Es un enfoque cognitivo en estado puro, casi en MODO LÁSER: Que tu yo del futuro te reciba feli…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-24",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/elite-invisible/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Presión externa VS. Misión interna",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-25",
+            "type": "heading",
+            "content": "Presión externa VS. Misión interna",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-25",
+            "type": "text",
+            "content": "### Hoy en día y más que nunca, la presión de competir al más alto nivel tiene una presión añadida además de la que supone estadios enormes y la televización de las competiciones, se suma la velocidad…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-25",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/presion-externa-vs-mision-interna/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Transformar la emoción",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-26",
+            "type": "heading",
+            "content": "Transformar la emoción",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-26",
+            "type": "text",
+            "content": "### ¿QUÉ DICE TU BRÚJULA EMOCIONAL? En plena competición deportiva, la manera más rápida para detectar nuestro estado interno y las emociones que estamos sintiendo es nuestra respiración. Hacer una to…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-26",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/detecta-tus-emociones-y-su-significado/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Lo que te dices IMPORTA",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-27",
+            "type": "heading",
+            "content": "Lo que te dices IMPORTA",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-27",
+            "type": "text",
+            "content": "Un pilar maestro no solo de cualquier deportista sino también de individuos que aspiran a crecer es el de ser consciente y prestar especial atención a su diálogo interno, esa «vocesita» que no cesa y …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-27",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/lo-que-te-dices-importa/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Ser Océano",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-28",
+            "type": "heading",
+            "content": "Ser Océano",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-28",
+            "type": "text",
+            "content": "## Inspirado en la sabiduría de Kahlil Gibran, hoy quiero invitarte a mirar tu transformación deportiva desde una perspectiva diferente…» «Se dice que antes de entrar al océano, un río tiembla de mied…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-28",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/entrena-y-transforma/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "El cuadrante del Ser",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-29",
+            "type": "heading",
+            "content": "El cuadrante del Ser",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-29",
+            "type": "text",
+            "content": "### Sin siquiera darnos cuenta, vivimos de prisa en esta vida moderna, donde no se frena, donde todo es rápido y el bombardeo constante de estímulos y actividades hacen que no tengamos tiempo para par…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-29",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/el-cuadrante-del-ser/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Tus cimientos internos",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-30",
+            "type": "heading",
+            "content": "Tus cimientos internos",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-30",
+            "type": "text",
+            "content": "Entrenar también es pensar. El siguiente texto nos invita a bajar un poco la velocidad de nuestro día a día, a crear espacio para la reflexión. Este ejercicio, nos invita a ponernos «en modo observado…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-30",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/tus-cimientos-internos/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Más allá del físico",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-31",
+            "type": "heading",
+            "content": "Más allá del físico",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-31",
+            "type": "text",
+            "content": "Cada desafío que la vida nos presenta, grande o pequeño, es una invitación a crecer. Si una persona está dispuesta a crecer y desarrollarse, aprendemos a mirar los obstáculos que se nos presentan en e…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-31",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/entrena-lo-que-no-se-ve/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "El reto de la evolución constante",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-32",
+            "type": "heading",
+            "content": "El reto de la evolución constante",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-32",
+            "type": "text",
+            "content": "Desde tu presente, observa tu pasado mientras construyes tu futuro. Renovarse en tiempos tan cambiantes es tu ventaja competitiva. En el pasado, la velocidad en la que «viajaba el mundo» décadas atrás…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-32",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/el-reto-de-la-evolucion-constante/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Crecer empieza por dentro",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-33",
+            "type": "heading",
+            "content": "Crecer empieza por dentro",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-33",
+            "type": "text",
+            "content": "En el momento que deseamos avanzar en nuestras vidas, sea mejorar a nivel deportivo o en otros ámbitos, los cambios duraderos en el tiempo se construyen empezando por dentro. Si el interior está débil…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-33",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/crecer-empieza-por-dentro/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "¿Qué sostiene tu rendimiento?",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-34",
+            "type": "heading",
+            "content": "¿Qué sostiene tu rendimiento?",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-34",
+            "type": "text",
+            "content": "En el deporte lo que nos deslumbra es la velocidad, la técnica, la estrategia, la táctica. Todas estas cualidades son esenciales evidentemente para llegar al alto rendimiento, pero una vez que llegas …",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-34",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/que-sostiene-tu-rendimiento/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "¿Quién podrías ser?",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-35",
+            "type": "heading",
+            "content": "¿Quién podrías ser?",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-35",
+            "type": "text",
+            "content": "A veces, las respuestas que buscamos fuera están ocultas en nuestro interior. Encuentra las llaves de tu cambio en este ejercicio y descubre las verdades que tu 'yo' del futuro necesita que actives ho…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-35",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/quien-podrias-ser/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Cuando las cosas no van bien…",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/01/pexels-dacostashotit-35571112-1157x1536.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-36",
+            "type": "heading",
+            "content": "Cuando las cosas no van bien…",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-36",
+            "type": "text",
+            "content": "No vayas con ellas. No te amargues, en su lugar enfócate en la mejora. Detente, respira profundo, tómate un tiempo para reflexionar. Cuando las cosas no van bien, vuelve a la base. Recuerda volver a t…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-36",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/cuando-las-cosas-no-van-bien/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Presión es evolución",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-37",
+            "type": "heading",
+            "content": "Presión es evolución",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-37",
+            "type": "text",
+            "content": "### La vida deportiva de un atleta atraviesa por todo tipo de situaciones duras, difíciles e incluso situaciones que llevan al límites de las capacidades, esos son «diamantes» disfrazados, momentos qu…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-37",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/presion-es-evolucion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Planifica tu futuro deportivo",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-38",
+            "type": "heading",
+            "content": "Planifica tu futuro deportivo",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-38",
+            "type": "text",
+            "content": "En un jardín puedes ser la planta que espera ser cuidada o el jardinero que cuida el jardín entero. Lo mismo sucede con la en la vida deportiva de un deportista: puedes dejar que el destino simplement…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-38",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/planifica-tu-futuro-deportivo/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Abúrrete y crea",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2026/01/pexels-andromeda99-35564941-1024x683.jpg"
+        },
+        "elements": [
+          {
+            "id": "h-39",
+            "type": "heading",
+            "content": "Abúrrete y crea",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-39",
+            "type": "text",
+            "content": "«Estoy aburrido» solíamos decir con bastante frecuencia las generaciones de antes, una frase que se repetía y que hoy se ve interrumpida por el constante bombardeo de distracciones con las que vivimos…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-39",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/aburrete-y-crea/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Vocabulario emocional",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-40",
+            "type": "heading",
+            "content": "Vocabulario emocional",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-40",
+            "type": "text",
+            "content": "El entrenamiento invisible empieza con el lenguaje correcto. Descubre conceptos clave que te ayudarán en tu desarrollo de inteligencia emocional resolviendo el siguiente crucigrama. La emoción bien di…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-40",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/vocabulario-emocional-2/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Noventa segundos de emoción",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2025/12/Screenshot-2025-12-12-at-19.59.48-1024x568.png"
+        },
+        "elements": [
+          {
+            "id": "h-41",
+            "type": "heading",
+            "content": "Noventa segundos de emoción",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-41",
+            "type": "text",
+            "content": "Siente, suelta, reflexiona. La respiración consciente es clave para una buena gestión emocional. La función principal de una emoción es guiarnos sobre lo que sentimos. Las emociones actúan como señale…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-41",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/noventa-segundos-de-emocion/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Feliz viaje en este 2026",
+    "pages": [
+      {
+        "background": {
+          "type": "color",
+          "value": "#333"
+        },
+        "elements": [
+          {
+            "id": "h-42",
+            "type": "heading",
+            "content": "Feliz viaje en este 2026",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-42",
+            "type": "text",
+            "content": "Nuevo año, nuevos comienzos. Escribe tus metas. Lo que escribes en papel se «imprime» en tu cerebro, transformando intenciones vagas en compromisos reales. Definir tu norte: poner claridad sobre lo qu…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-42",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/feliz-viaje-en-este-2026/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Bienvenido 2026",
+    "pages": [
+      {
+        "background": {
+          "type": "image",
+          "value": "https://fidalgoruben.com/wp-content/uploads/2025/12/Screenshot-2025-12-31-at-15.23.37-1024x927.png"
+        },
+        "elements": [
+          {
+            "id": "h-43",
+            "type": "heading",
+            "content": "Bienvenido 2026",
+            "style": {
+              "left": "50%",
+              "top": "20%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "2rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "t-43",
+            "type": "text",
+            "content": "Abraza este 2026. Que este año te encuentre bien, presente y dispuesto a entrenar el potencial oculto que llevas dentro. Aquí empieza un espacio para elevar la consciencia, honrar el cuerpo y vivir el…",
+            "style": {
+              "left": "50%",
+              "top": "45%",
+              "width": "80%",
+              "transform": "translate(-50%,-50%)",
+              "fontSize": "1rem",
+              "color": "#fff",
+              "textAlign": "center"
+            }
+          },
+          {
+            "id": "b-43",
+            "type": "button",
+            "content": "Leer más",
+            "link": "https://fidalgoruben.com/bienvenido-2026/",
+            "style": {
+              "left": "50%",
+              "top": "75%",
+              "transform": "translate(-50%,-50%)",
+              "background": "#667eea",
+              "color": "#fff",
+              "borderRadius": "4px",
+              "padding": "0.4rem 0.8rem"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

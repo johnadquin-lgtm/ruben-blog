@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import PostCard from '@/components/PostCard';
+import StoriesHeader from '@/components/StoriesHeader';
 
 export default function Home() {
   const [posts, setPosts] = useState<any[]>([]);
@@ -21,6 +22,9 @@ export default function Home() {
 
   return (
     <>
+      {/* Stories Section - Header */}
+      <StoriesHeader />
+
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-amber-600 to-amber-800 text-white py-20">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">

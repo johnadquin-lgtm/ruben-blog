@@ -1,0 +1,204 @@
+.viewerContainer {
+  position: relative;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transition: background-color 1s ease;
+}
+
+/* Top bar */
+.topBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 30;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(8px);
+}
+
+.topBar button {
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: background 0.2s;
+}
+
+.topBar button:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.topBar button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.storyTitle {
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  max-width: 50%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Progress bar */
+.progressBar {
+  position: fixed;
+  top: 52px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.2);
+  z-index: 30;
+}
+
+.progressFill {
+  height: 100%;
+  background: #fff;
+  transition: width 0.1s linear;
+}
+
+/* Story card - vertical, centered, NOT fullscreen */
+.storyCard {
+  position: relative;
+  width: min(420px, 90vw);
+  max-height: 85vh;
+  aspect-ratio: 9 / 16;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  z-index: 10;
+}
+
+.storyImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.storyOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0.3) 40%,
+    rgba(0, 0, 0, 0.7) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 32px 24px;
+}
+
+.storyText {
+  color: #fff;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  white-space: pre-line;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+  font-weight: 400;
+}
+
+/* Tap areas */
+.tapArea {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 15;
+  width: 40%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.tapArea:hover {
+  opacity: 1;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.tapAreaLeft {
+  left: 0;
+}
+
+.tapAreaRight {
+  right: 0;
+}
+
+.tapArrow {
+  font-size: 2rem;
+  color: rgba(255, 255, 255, 0.7);
+  user-select: none;
+}
+
+/* Bottom indicators */
+.indicators {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 30;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.dot.active {
+  background: #fff;
+  transform: scale(1.4);
+}
+
+/* Loading */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+/* Gallery link */
+.galleryLink {
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.85rem;
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 6px;
+  transition: background 0.2s;
+}
+
+.galleryLink:hover {
+  background: rgba(255, 255, 255, 0.3);
+}

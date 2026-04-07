@@ -18,7 +18,7 @@ interface WebStory {
   pages: StoryPage[];
 }
 
-export default function StoriesList() {
+export default function StoriesHeader() {
   const [stories, setStories] = useState<WebStory[]>([]);
   const [loading, setLoading] = useState(true);
 
@@ -36,8 +36,8 @@ export default function StoriesList() {
 
   if (loading || stories.length === 0) return null;
 
-  // Mostrar solo las primeras 8 stories
-  const storiesPosts = stories.slice(0, 8);
+  // Mostrar solo las primeras 8 stories en la cabecera
+  const headerStories = stories.slice(0, 8);
 
   return (
     <section className="bg-gradient-to-b from-amber-50 to-transparent py-8 px-4">
@@ -53,7 +53,7 @@ export default function StoriesList() {
         </div>
         
         <div className="flex overflow-x-auto gap-6 pb-4 scrollbar-hide">
-          {storiesPosts.map((story) => (
+          {headerStories.map((story) => (
             <Link
               key={story.id}
               href={`/stories/${story.slug}`}

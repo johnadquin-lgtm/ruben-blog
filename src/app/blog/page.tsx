@@ -11,7 +11,7 @@ export default async function BlogPage() {
   return (
     <>
       {/* Stories Section */}
-      <StoriesList posts={allPosts} />
+      <StoriesList />
 
       {/* Content */}
       <BlogClient posts={allPosts} categories={categories} />

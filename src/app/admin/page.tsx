@@ -39,7 +39,7 @@ export default async function AdminDashboard() {
         </div>
 
         {/* Quick Actions */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           {/* Create New Post */}
           <Link
             href="/admin/nuevo-post"
@@ -53,6 +53,25 @@ export default async function AdminDashboard() {
                   Formula visual para crear un nuevo artículo con imagen, título, contenido y más.
                 </p>
                 <div className="mt-4 text-amber-700 font-semibold text-sm">
+                  Ir →
+                </div>
+              </div>
+            </div>
+          </Link>
+
+          {/* Create New Story */}
+          <Link
+            href="/admin/nueva-story"
+            className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow border-2 border-purple-200 hover:border-purple-400"
+          >
+            <div className="flex items-start gap-4">
+              <div className="text-3xl">📖</div>
+              <div>
+                <h3 className="text-xl font-bold text-gray-900 mb-2">Crear Nueva Story</h3>
+                <p className="text-gray-600 text-sm">
+                  Crea una historia visual con múltiples páginas, imágenes y botones.
+                </p>
+                <div className="mt-4 text-purple-700 font-semibold text-sm">
                   Ir →
                 </div>
               </div>

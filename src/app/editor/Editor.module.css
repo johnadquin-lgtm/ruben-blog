@@ -1,0 +1,150 @@
+.editorContainer {
+  display: grid;
+  grid-template-columns: 220px 1fr 200px;
+  grid-template-rows: 60px 1fr;
+  height: 100vh;
+  gap: 0;
+}
+
+.editorHeader {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  background: #1a1a2e;
+  color: #fff;
+}
+
+.editorHeader h1 {
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.editorHeader button {
+  padding: 8px 16px;
+  background: #667eea;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.editorSidebar {
+  grid-row: 2;
+  padding: 16px;
+  background: #f5f5f5;
+  border-right: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+.editorSidebar h2 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: #666;
+  margin: 16px 0 8px;
+}
+
+.editorSidebar button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 6px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.editorSidebar button:hover {
+  background: #e8e8e8;
+}
+
+.editorSidebar input[type="file"] {
+  width: 100%;
+  margin-top: 8px;
+}
+
+.editorCanvas {
+  grid-row: 2;
+  position: relative;
+  overflow: hidden;
+  background: #000;
+}
+
+.pageBackground {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.storyElement {
+  position: absolute;
+  z-index: 10;
+}
+
+.storyElement h2 {
+  margin: 0;
+  font-size: inherit;
+}
+
+.storyElement p {
+  margin: 0;
+  font-size: inherit;
+}
+
+.storyElement button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.editorPages {
+  grid-row: 2;
+  padding: 16px;
+  background: #f5f5f5;
+  border-left: 1px solid #ddd;
+  overflow-y: auto;
+}
+
+.editorPages h2 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: #666;
+  margin: 0 0 12px;
+}
+
+.thumb {
+  width: 100%;
+  aspect-ratio: 9/16;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  overflow: hidden;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.thumb.active {
+  border-color: #667eea;
+}
+
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.editorPages button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-top: 8px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+}

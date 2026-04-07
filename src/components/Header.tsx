@@ -46,6 +46,18 @@ export default function Header() {
             >
               Contacto
             </Link>
+            <Link 
+              href="/stories" 
+              className="text-gray-700 hover:text-amber-700 font-medium transition-colors"
+            >
+              📖 Historias
+            </Link>
+            <Link 
+              href="/viewer" 
+              className="text-gray-700 hover:text-amber-700 font-medium transition-colors"
+            >
+              👁️ Visor
+            </Link>
             
             {/* Admin Button */}
             <Link 
@@ -106,6 +118,20 @@ export default function Header() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Contacto
+              </Link>
+              <Link 
+                href="/stories" 
+                className="text-gray-700 hover:text-amber-700 font-medium transition-colors py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                📖 Historias
+              </Link>
+              <Link 
+                href="/viewer" 
+                className="text-gray-700 hover:text-amber-700 font-medium transition-colors py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                👁️ Visor
               </Link>
               <Link 
                 href="/admin" 
